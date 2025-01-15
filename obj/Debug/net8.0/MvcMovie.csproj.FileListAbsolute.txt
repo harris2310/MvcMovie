@@ -33,3 +33,4 @@ C:\Users\harri\Documents\.NET_projects\playground\MvcMovie\bin\Debug\net8.0\Micr
 C:\Users\harri\Documents\.NET_projects\playground\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\harri\Documents\.NET_projects\playground\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.Up2Date
 C:\Users\harri\Documents\.NET_projects\playground\MvcMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\harri\Documents\.NET_projects\playground\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json

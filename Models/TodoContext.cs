@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace TodoApi.Models;
+namespace MvcMovie.Models;
 
 public class TodoContext : DbContext
 {

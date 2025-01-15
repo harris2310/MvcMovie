@@ -1,4 +1,4 @@
-namespace TodoApi.Models;
+namespace MvcMovie.Models;
 
 public class TodoItem
 {
